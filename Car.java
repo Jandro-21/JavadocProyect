@@ -44,7 +44,7 @@ public class Car {
     }
 
     public String carDescription() {
-        return "The car is a " + year + " " + make + " " + model + " priced at $" + price;
+        return "The car is a " + year + " " + make + " " + model + " priced at €" + price;
     }
 
     @Override
