@@ -53,7 +53,10 @@ public class Car {
     }
 
     public static void main(String[] args) {
-        Car car = new Car("Toyota", "Corolla", 2025, 26800);
+        Car car = new Car("Toyota", "Corolla", 2025, 27800);
         System.out.println(car);
+    
     }
+
+    
 }
